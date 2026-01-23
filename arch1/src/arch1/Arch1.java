@@ -3,22 +3,20 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package archivo2;
+package arch1;
 
 /**
  *
  * @author emyca
  */
-public class Archivo2 {
+public class Arch1 {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        for (int i=0;i<7;i++){
-            System.out.println(i);
-        }
+        System.out.println("hola mundo");
     }
     
 }
