@@ -16,7 +16,15 @@ public class Arch1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("tengo sueñooo");
+<<<<<<< HEAD
+        System.out.println("hola mundo");
+        System.out.println("Me ira bien en programacion II");
+=======
+        System.out.println("chao mundo");
+        for (int i=0;i<4;i++){
+            System.out.println(i);
+        }
+>>>>>>> rama
     }
     
 }
