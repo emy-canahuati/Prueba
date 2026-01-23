@@ -16,7 +16,7 @@ public class Arch1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("chao mundo");
+        System.out.println("chao cruel mundo");
         for (int i=0;i<4;i++){
             System.out.println(i);
         }
