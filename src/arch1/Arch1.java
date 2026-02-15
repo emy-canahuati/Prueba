@@ -21,7 +21,7 @@ public class Arch1 {
             System.out.println(i);
         }
         System.out.println("tengo suenooo");
-        System.out.println("Tengo hambre");
+        System.out.println("Tengo hambre");jjjjj
     }
     
 }
